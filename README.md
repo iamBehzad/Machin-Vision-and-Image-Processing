@@ -1,1 +1,1 @@
-# Machin-Vision-and-Image-Processing
+# Machine Vision and Image Processing
